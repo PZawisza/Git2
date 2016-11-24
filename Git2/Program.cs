@@ -12,6 +12,8 @@ namespace Git2
         {
             Console.WriteLine("hello git!");
             Console.ReadKey();
+
+            Console.WriteLine("Changes in Branch1");
         }
     }
 }
